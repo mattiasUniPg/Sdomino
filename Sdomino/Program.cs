@@ -25,5 +25,4 @@ foreach (var file in directoryInfo)
         var totale =0;
     }
 }
-
-
+Console.WriteLine("Buon Appetito");
