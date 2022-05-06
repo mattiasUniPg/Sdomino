@@ -15,8 +15,8 @@ namespace Inventory
 
         public int Somma() 
         {
-            int i, j, n;
-            Console.ReadLine($"{i}");
+            int i=0, j=0, n = 0;
+            
             var totale=basi[i] + integrale[j] + aggiungi[n];
             return totale;
         }
