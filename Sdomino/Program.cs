@@ -6,6 +6,7 @@ var ingredienti = new Ingredienti();
 var order = new Order();
 
 //TRY CACHE TODO
+//Factory METHOD
 
 var files = File.Create(@"C:\Users\student\Desktop\projects_ACCADEMY22\\test.txt");
 var directoryInfo = Directory.GetFiles("C:\\Users\\student\\Desktop\\projects_ACCADEMY22\\test.txt");
